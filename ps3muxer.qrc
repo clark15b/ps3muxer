@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/controller.png</file>
+        <file>icons/control_play_blue.png</file>
+        <file alias="main_window.png" >icons/film_go.png</file>
+        <file>icons/film_save.png</file>
+    </qresource>
+</RCC>

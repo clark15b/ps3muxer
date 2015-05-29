@@ -1,0 +1,2 @@
+all:
+	cl /MT /I. /DMKVTRACKS ebml.cpp Ws2_32.lib /Femkvtracks.exe /EHsc

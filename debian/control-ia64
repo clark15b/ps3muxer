@@ -1,0 +1,9 @@
+Package: ps3muxer
+Version: 1.30-ubuntu1
+Section: video
+Architecture: amd64
+Depends: libqtgui4, libqtcore4, libstdc++6, ffmpeg, mkvtoolnix, ia32-libs
+Priority: extra
+Maintainer: clark15b@doom9 <clark15b@gmail.com>
+Homepage: http://ps3muxer.org
+Description: Sony PlayStation3 MKV to M2TS muxer

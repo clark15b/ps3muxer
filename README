@@ -1,0 +1,11 @@
+PS3Muxer is a new very simple program which will remux mkv file with h.264 video and AC3/DTS/LPCM/AAC audio to
+a M2TS file which is playable on the Sony PlayStation3.
+
+Copyright (C) 2009-2015 Anton Burdinuk
+
+clark15b@gmail.com
+
+http://ps3muxer.org/
+http://code.google.com/p/tsdemuxer/downloads/list
+http://forum.doom9.org/showthread.php?p=1309894
+http://rutracker.org/forum/viewtopic.php?t=2041061
